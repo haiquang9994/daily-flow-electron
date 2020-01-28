@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    color: #1e1e1e;
+}
+body  *{
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+}
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+ul, ol {
+    list-style: none;
+    padding: 0;
+}
